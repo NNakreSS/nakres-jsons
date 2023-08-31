@@ -1,4 +1,4 @@
-
+```lua
 ------ test ------
 local jsonApi = exports['nakres-jsons']:getMethods()
 local db = jsonApi:new("nakres")
